@@ -30,7 +30,6 @@ function BarChart({ data }) {
     style={{
       height: `${chartHeight}px`,
       width: `${chartWidth}px`,
-      background: '#222',
     }}
   />;
 }
