@@ -1,6 +1,7 @@
 # Data
 
 Playing around with some data visualization in react.
+View it [live on vercel](https://data-uli.now.sh/)!
 
 ## Stocks
 
