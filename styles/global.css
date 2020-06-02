@@ -50,6 +50,11 @@ a:hover {
     left: 10px;
 }
 
+.profile {
+    border-radius: 9999px;
+    margin-bottom: 16px;
+}
+
 .bar {
     display: inline-block;
 }

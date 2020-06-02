@@ -9,6 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
+        <img alt="profile" className="profile" src="/profile.png" />
         <h2>Hi! Welcome to uli's data playground</h2>
 
         <nav>
