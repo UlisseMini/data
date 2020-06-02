@@ -47,7 +47,8 @@ export default function Stocks() {
       </Link>
 
       <main>
-        <h2>Behold, the stonks</h2>
+        <h2>$TSLA stonks best stonks</h2>
+        <small>Can you pick out where corona-chan entered the chat?</small>
         <BarChart data={data} />
         <p>High: {Math.max(...data)}, low: {Math.min(...data)}</p>
       </main>
